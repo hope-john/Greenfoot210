@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LaserLeft
+comment1.params=
+comment1.target=LaserLeft()
+comment2.params=s
+comment2.target=void\ setSpeed(int)
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=boolean\ hitEdge()
+comment6.params=
+comment6.target=void\ Lase()
+comment7.params=
+comment7.target=void\ gain()
+numComments=8
