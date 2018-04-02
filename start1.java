@@ -32,7 +32,7 @@ public class start1 extends World
         addObject(fl,200,520);
         
         Word wo = new Word();
-        addObject (wo,500,60);
+        addObject (wo,500,200);
         
         arrows ar = new arrows();
         addObject (ar,200,720);
